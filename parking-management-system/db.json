@@ -1,0 +1,43 @@
+{
+  "parkings": [
+    {
+      "id": "c918",
+      "type": "Truck",
+      "license": "1234",
+      "name": "asdasda",
+      "phone": "45645",
+      "address": "adasd",
+      "status": "in",
+      "entryDate": "2024-10-02T18:15:00.000Z",
+      "entryTime": "00:15",
+      "exitDate": "2024-10-02T18:45:00.000Z",
+      "exitTime": "00:45"
+    },
+    {
+      "id": "5a33",
+      "type": "Microbus",
+      "license": "ada",
+      "name": "adasd",
+      "phone": "asdas",
+      "address": "asdas",
+      "status": "in",
+      "entryDate": "2024-10-03T18:30:00.000Z",
+      "entryTime": "00:30",
+      "exitDate": "2024-10-02T18:45:00.000Z",
+      "exitTime": "00:45"
+    },
+    {
+      "id": "db99",
+      "type": "Bike",
+      "license": "1234",
+      "name": "Khan",
+      "phone": "455666",
+      "address": "adeadsa",
+      "status": "in",
+      "entryDate": "2024-09-30T18:30:00.000Z",
+      "entryTime": "00:30",
+      "exitDate": "2024-09-30T19:00:00.000Z",
+      "exitTime": "01:00"
+    }
+  ]
+}
